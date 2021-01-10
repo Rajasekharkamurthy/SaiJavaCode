@@ -4,4 +4,4 @@
 <h2> This is End-End CI-CD Pipeline DevOps Project!! </h2>
 <h2> We are done with DevOps Project-2 </h2>
 <h2> Cool, learning is essential </h2
-<h3> Picture comes to an end </h3> 
+<h2> Picture comes to an end </h2> 
